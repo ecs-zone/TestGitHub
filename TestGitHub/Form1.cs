@@ -20,7 +20,7 @@ namespace TestGitHub
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hi Siriwat 122");
-            string xs = "Fix bug22222";
+            string xs = "Master to fix";
         }
     }
 }
