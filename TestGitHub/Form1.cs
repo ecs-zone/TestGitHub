@@ -21,11 +21,6 @@ namespace TestGitHub
         {
             MessageBox.Show("Hi Siriwat 122");
             string xs = "Master to fix";
-
-            //Add master
-            //Add hot fix
-            //Add hot fix 02
-            //Add hot fix 03
         }
     }
 }
