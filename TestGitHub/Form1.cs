@@ -23,6 +23,7 @@ namespace TestGitHub
             string xs = "Master to fix";
 
             //Add hot fix
+            //Add hot fix 02
 
         }
     }
